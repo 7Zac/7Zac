@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://mir-s3-cdn-cf.behance.net/e91a0cf289f827a0a45536eed581dde8/e5be6589-db97-4fcc-b300-cff7ebe8107b_rwc_0x28x3200x353x3200.png?h=2c8c1ef0037d955e5dfdc45b03134e06" />
 &nbsp;&nbsp;&nbsp;
 
-<p>👾 THE GOAT 🐐</p>
+<p>👾 THE GOAT 🐐</p><br>
 <p align="center">❤ I love it all very much. ❤<br><br> With all my time dedicated to studies, i tried to solve problems in both information technology and design. Today I deliver my best, always looking for customer satisfaction.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
