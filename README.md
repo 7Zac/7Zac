@@ -1,8 +1,8 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/7Zac/7Zac/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://mir-s3-cdn-cf.behance.net/e91a0cf289f827a0a45536eed581dde8/e5be6589-db97-4fcc-b300-cff7ebe8107b_rwc_0x28x3200x353x3200.png?h=2c8c1ef0037d955e5dfdc45b03134e06" />
 &nbsp;&nbsp;&nbsp;
 
-
-<p align="center">❤️ I love it all very much. ❤️<br><br> With all my time dedicated to studies, i tried to solve problems in both information technology and design. Today I deliver my best, always looking for customer satisfaction.</p>&nbsp;
+<p>👾 THE GOAT 🐐</p>
+<p align="center">❤ I love it all very much. ❤<br><br> With all my time dedicated to studies, i tried to solve problems in both information technology and design. Today I deliver my best, always looking for customer satisfaction.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=7Zac&theme=radical&mode=weekly" />
@@ -31,19 +31,18 @@
 ![AffterEffects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 #### Databases:
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)&nbsp;
 &nbsp;
 
@@ -54,8 +53,11 @@
 </a>
 <a href = "mailto:contato.isaac.lopesalencar@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/isaac-lopesalencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.behance.net/zacdesigner/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"  target="_blank"></a> 
+<a href="https://www.behance.net/zacdesigner/" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"  target="_blank"></a>
+<a href="https://www.icloud.com/mail/isaacalencar14@icloud.com"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"> </a>
 </div>&nbsp;&nbsp;
+
+<p>Thank so much! ✌🏻</p>
  
 
   
