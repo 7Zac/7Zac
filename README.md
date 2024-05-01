@@ -62,7 +62,7 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=500&color=gradient&text=Obrigado!&section=footer&reversal=false&fontAlign=50&fontAlignY=50&fontColor=4B79A1&fontSize=100&textBg=false&animation=twinkling&descAlign=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Obrigado!&section=header&reversal=false&fontAlign=50&fontAlignY=50&fontColor=4B79A1&fontSize=100&textBg=false&animation=twinkling&descAlign=50&descAlignY=60&rotate=0"/>
 <!-- ### Hi there 👋
 
 <!--
